@@ -1,14 +1,11 @@
 ### Site Settings ###
 title               : Siddhartha G
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : S1ddh4rthaG/S1ddh4rthaG.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      "I'm working on a masterpiece, and it's not quite finished yet" - Lewis Hamilton
+baseurl             : ""            
+repository          : S1ddh4rthaG/S1ddh4rthaG.github.io     
 remote_theme        : yousinix/portfolYOU
-open_new_tab        : true                    # Opens external URLs in new tab (works for posts, projects and navbar only)
-
+open_new_tab        : true                    
 
 ### Plugins ###
 plugins:
@@ -25,7 +22,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Siddhartha G
-  image             : /assets/imgs/siddharthag.jpg
+  image             : /assets/imgs/siddharthag-light.jpg
   email             : siddhartha.g@example.com
   github            : S1ddh4rthaG
   linkedin          : siddharthag22
@@ -40,15 +37,11 @@ collections:
     output: true
     permalink: /projects/:name
 
-### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
-
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: true                                  # Set true to enable analytics
   google:
-    tracking_id: your-google-tracking-id
+    tracking_id: G-V7P0S13VPV
 
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
