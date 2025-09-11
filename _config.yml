@@ -23,10 +23,10 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Siddhartha G
   image             : /assets/imgs/siddharthag-light.jpg
-  email             : siddhartha.g@example.com
+  # email             : siddhar7ha.g@gmail.com
   github            : S1ddh4rthaG
   linkedin          : siddharthag22
-  twitter           : s1ddhartha_g
+  x                 : s1ddhartha_g
 
 ### Posts ###
 permalink: /blog/:title
