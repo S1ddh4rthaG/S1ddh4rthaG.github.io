@@ -171,7 +171,7 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-3">
           <div>
-            <h5 class="card-title mb-1"><a href="/_projects/dhwani-sarathi" target="_blank">Smart India Hackathon - Dhwani Sarathi App-Based Audiometer (SIH1403)</a></h5>
+            <h5 class="card-title mb-1"><a href="/projects/dhwani-sarathi" target="_blank">Smart India Hackathon - Dhwani Sarathi App-Based Audiometer (SIH1403)</a></h5>
             <h6 class="mb-2">All India Winner for the problem statement</h6>
           </div>
         </div>
@@ -186,7 +186,7 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-3">
           <div>
-            <h5 class="card-title mb-1"><a href="/_projects/foxtagger" target="_blank">Consensys MetaMask Snaps problem statement - FoxTagger</a></h5>
+            <h5 class="card-title mb-1"><a href="/projects/fox-tagger" target="_blank">Consensys MetaMask Snaps problem statement - FoxTagger</a></h5>
             <h6 class="mb-2">Silver Medal, Inter IIT Tech Meet - 2023</h6>
           </div>
         </div>
