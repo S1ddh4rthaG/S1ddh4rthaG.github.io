@@ -7,32 +7,145 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-I am a Software Engineer and a recent graduate from the Indian Institute of Technology, Tirupati (IIT Tirupati) with a Bachelor's degree in Computer Science and Engineering. I have a strong passion for technology and innovation, which has driven me to explore various domains within computer science, including software development, blockchain technology, and artificial intelligence. I like building projects and have participated in several hackathons. I also dipped my toes in research and explore interesting problems in intersection of AI and Software Engineering. Me as a person, I am curious person by nature, I love trying out new things. I love chess, badminton and table tennis. Still learning and growing every day :blush:.
+Hi there! I'm **{{ site.author.name }}** :wave:
+
+I'm a Software Engineer with a fresh perspective, having recently graduated from the Indian Institute of Technology, Tirupati (IIT Tirupati) with a Bachelor's degree in Computer Science and Engineering. 
+My journey in tech is driven by an insatiable curiosity and a passion for innovation across multiple domains:
+
+- 🚀 **Software Development**: Crafting efficient, scalable solutions with modern technologies
+- 🤖 **AI/ML Research**: Contributing to the intersection of AI and Software Engineering
+- 🏆 **Hackathon**: Multiple victories showcasing practical problem-solving and rapid prototyping skills
+
+When I'm not coding, you'll find me strategizing over a game of chess :chess_pawn:, smashing shuttlecocks :badminton:, or enjoying table tennis :ping_pong:.
+ Always excited to learn, grow, and take on new challenges! :rocket:
 
 <br/>
 <br/>
+
+### [Skills](#skills)
+
+<div class="row row-cols-1 row-cols-md-3 g-3">
+  <div class="col mb-3">
+    <div class="card h-100">
+      <div class="card-body">
+        <h6 class="card-title fw-bold border-bottom pb-2 mb-3">Programming Languages</h6>
+        <div class="row g-2">
+          <div class="col-12">
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">C++</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Java</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Python</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">JavaScript</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col mb-3">
+    <div class="card h-100">
+      <div class="card-body">
+        <h6 class="card-title fw-bold border-bottom pb-2 mb-3">Frontend Development</h6>
+        <div class="row g-2">
+          <div class="col-12">
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">React.js</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Angular</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Next.js</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">HTML5</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">CSS3</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Bootstrap</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col mb-3">
+    <div class="card h-100">
+      <div class="card-body">
+        <h6 class="card-title fw-bold border-bottom pb-2 mb-3">Backend Development</h6>
+        <div class="row g-2">
+          <div class="col-12">
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Spring Boot</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Node.js</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Microservices</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col mb-3">
+    <div class="card h-100">
+      <div class="card-body">
+        <h6 class="card-title fw-bold border-bottom pb-2 mb-3">Blockchain</h6>
+        <div class="row g-2">
+          <div class="col-12">
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Web3.js</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Ethers.js</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Smart Contracts</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">NFTs</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col mb-3">
+    <div class="card h-100">
+      <div class="card-body">
+        <h6 class="card-title fw-bold border-bottom pb-2 mb-3">AI/ML</h6>
+        <div class="row g-2">
+          <div class="col-12">
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">PyTorch</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">LLMs</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Federated Learning</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col mb-3">
+    <div class="card h-100">
+      <div class="card-body">
+        <h6 class="card-title fw-bold border-bottom pb-2 mb-3">Developer Tools</h6>
+        <div class="row g-2">
+          <div class="col-12">
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Git</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Docker</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">SQL Developer</span>
+            <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">VS Code & IntelliJ IDEA</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br />
+<br />
+
 ### [Experience](#experience)
 
 <div class="row">
   <div class="col-12">
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-1">
           <h5 class="card-title mb-0">Bank of New York (BNY)</h5>
-          <span class="badge" style="font-size: 0.93em;">July 2024 – Present</span>
+          <span class="badge" style="font-size: 0.93em;">July 2024 - Present</span>
         </div>
         <h6 class="text-muted">Software Engineer</h6>
         <p class="card-text text-small"></p>
       </div>
     </div>
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-1">
           <h5 class="card-title mb-0">
             SoftWare Analytics and Technologies (SWAT) Lab
           </h5>
-        <span class="badge" style="font-size: 0.93em;">Jun. 2023 – Jul. 2023</span>
+        <span class="badge" style="font-size: 0.93em;">Jun. 2023 - Jul. 2023</span>
         </div>
         <h6 class="text-muted">Research Intern (Remote), Polytechnique Montréal</h6>
         <p class="card-text text-small"></p>
@@ -47,7 +160,7 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
 
 <div class="row">
   <div class="col-12">
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-1">
           <h5 class="card-title mb-0">
@@ -78,8 +191,7 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
 
 <div class="row g-3">
   <div class="col-12">
-    <!-- B.Tech -->
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-1">
           <h5 class="card-title mb-0">
@@ -90,27 +202,42 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
         <h6 class="text-muted">
           Bachelor of Technology in Computer Science & Engineering
         </h6>
-        <p class="card-text text-small"><strong>CGPA:</strong> 9.37/10.0</p>
+        <span class="badge rounded-pill border ms-2" style="font-size: 1em;">CGPA: 9.37/10</span>
+        <div>
+          <h6 class="mt-3 mb-1 font-weight-bold">Relevant Coursework:</h6>
+            <div class="row">
+              <div class="col-auto">
+                <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Data Structures & Algorithms</span>
+                <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">DBMS</span>
+                <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Operating Systems</span>
+                <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Computer Networks</span>
+                <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Software Engineering</span>
+                <span class="badge rounded-pill bg-light text-dark border me-1 mb-1">Artificial Intelligence</span>
+              </div>
+            </div>
+        </div>
       </div>
     </div>
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-1">
           <h5 class="card-title mb-0">Narayana Junior College</h5>
           <span class="badge" style="font-size: 0.93em;">2018 - 2020</span>
         </div>
-        <h6 class="text-muted">Intermediate/+2 (BIEAP)</h6>
-        <p class="card-text text-small"><strong>Percentage:</strong> 98%</p>
+        <h6 class="text-muted">Intermediate/+2 (BIEAP)
+        </h6>
+          <span class="badge rounded-pill border ms-2" style="font-size: 1em;">Percentage: 98%</span>
       </div>
     </div>
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-1">
           <h5 class="card-title mb-0">Loyola Public School, Guntur</h5>
           <span class="badge" style="font-size: 0.93em;">2008 - 2018</span>
         </div>
-        <h6 class="text-muted">Class 10 (ICSE)</h6>
-        <p class="card-text text-small"><strong>Percentage:</strong> 96.5%</p>
+        <h6 class="text-muted">Class 10 (ICSE)
+        </h6>
+          <span class="badge rounded-pill border ms-2" style="font-size: 1em;">Percentage: 96.5%</span>
       </div>
     </div>
   </div>
@@ -122,7 +249,7 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
 
 <div class="row g-4">
   <div class="col-12">
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-3">
           <div>
@@ -131,13 +258,13 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
           </div>
         </div>
         <p class="card-text text-muted">
-          SpiderCraft is a no-code blockchain gaming platform that enables developers to design, build, and deploy games on the Spiderchain while providing seamless management of audio, video, and 3D assets with integrated monetization features. Players benefit from complete game ownership through NFTs and enjoy high-performance, low gas-cost transactions on Spiderchain for a smooth and affordable gaming experience.
+          SpiderCraft is a no-code blockchain gaming platform enabling game development on Spiderchain with integrated asset management and NFT-based ownership, offering high-performance gaming.
         </p>
       </div>
     </div>
   </div>
   <div class="col-12">
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-3">
           <div>
@@ -146,13 +273,13 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
           </div>
         </div>
         <p class="card-text text-muted">
-          BNBCraft is a no-code blockchain gaming platform that enables developers to design, build, and deploy games on the opBNB chain while utilizing BNB Greenfield for seamless audio, video, and 3D asset management with integrated monetization features. Players benefit from complete game ownership through NFTs and enjoy high-performance, low-cost transactions on opBNB for a smooth and affordable gaming experience.
+          A no-code gaming platform on opBNB chain utilizing BNB Greenfield for asset management, featuring NFT-based game ownership and low-cost transactions for an optimized gaming experience.
         </p>
       </div>
     </div>
   </div>
   <div class="col-12">
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-3">
           <div>
@@ -161,13 +288,13 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
           </div>
         </div>
         <p class="card-text text-muted">
-          AreonMart is a no-code e-commerce platform that allows artists and store owners to create and deploy 3D virtual storefronts on the Areon Blockchain with one-click deployment at zero cost. The platform enables users to showcase and sell products from cars to fashion through personalized smart contracts, offering global reach with focus on ease of use and customization. AreonMart democratizes 3D e-commerce by making innovative virtual marketplaces accessible to businesses of all sizes.
+          A zero-cost, no-code platform for creating 3D virtual storefronts on Areon Blockchain, enabling businesses to showcase and sell products through personalized smart contracts with seamless deployment.
         </p>
       </div>
     </div>
   </div>
   <div class="col-12">
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-3">
           <div>
@@ -176,13 +303,13 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
           </div>
         </div>
         <p class="card-text text-muted">
-          Dhwani Sarathi is a mobile app that won Smart India Hackathon 2023, designed to detect hearing problems in school children using smartphones through automated hearing tests and results analysis. The app makes hearing screenings faster and more accessible by connecting users directly to healthcare providers for early treatment and better student outcomes. It is also extensible for government and industrial hearing health programs.
+          A mobile app for automated hearing screenings in school children, providing quick results analysis and direct healthcare provider connections for early intervention and treatment.
         </p>
       </div>
     </div>
   </div>
   <div class="col-12">
-    <div class="card mb-4 shadow-sm">
+    <div class="card mb-2">
       <div class="card-body">
         <div class="d-flex justify-content-between align-items-start mb-3">
           <div>
@@ -191,7 +318,7 @@ I am a Software Engineer and a recent graduate from the Indian Institute of Tech
           </div>
         </div>
         <p class="card-text text-muted">
-          FoxTagger is a MetaMask Snaps extension that enables users to assign custom tags to addresses, helping them monitor and manage their spending through real-time alerts and detailed analytics. The extension also includes a payment request feature that allows users to send amount requests with notifications to other users.
+          A MetaMask Snaps extension for custom address tagging with spending analytics and payment request features, enhancing transaction management and user interactions.
         </p>
       </div>
     </div>
